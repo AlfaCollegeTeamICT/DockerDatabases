@@ -1,0 +1,3 @@
+-- Voorbereiden databases
+CREATE DATABASE IF NOT EXISTS sakila;
+CREATE DATABASE IF NOT EXISTS world;

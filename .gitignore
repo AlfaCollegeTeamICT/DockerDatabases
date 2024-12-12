@@ -1,0 +1,4 @@
+# Secrets
+.env
+# MAC OS bs
+.DS_Store
