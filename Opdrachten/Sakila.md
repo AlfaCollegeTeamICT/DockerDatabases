@@ -37,8 +37,6 @@
     - Replacement Cost: 19.99
 
 6. Verander (met een querie) de huurprijs en de vervangingswaarde door deze met 5 te verhogen
-
-
 7. Voeg een nieuwe taal "Dutch" toe
 8. Verander de taal van de film "STAR OPERATION" naar "Dutch".
 
@@ -46,22 +44,7 @@
 # Complexe Queries
 1. Geef een top 5 van de meest verhuurde films (titel van de film, hoe vaak gehuurd)
 2. Geef een top 10 van de klanten die de meeste films huren (voornaam, achternaam, aantal films gehuurd)
-3. Toon alle films  die in meerdere categorieen staan (titel, aantal categorieen)
+3. Toon alle films die in meerdere categorieen staan (titel, aantal categorieen)
 4. Welke acteur speelt in de meeste films? (voornaam, achternaam)
 5. Welke films zijn nog nooit verhuurd? (titel)
 6. Maak een overzicht van films die verhuurd kunnen worden welke minder dan de helft van de gemiddelde huurprijs kosten. (titel)
-
-## Examenvoorbereiding (Sakila)
-Onder dit kopje staat een mix tussen:
-- Eenvoudige queries
-- Complexe queries
-
-
-1. Welke acteurs hebben de voornaam 'Scarlett'?
-2. Welke acteurs hebben de achternaam 'Johansson'?
-3. Hoeveel unieke acteur-achternamen zijn er?
-4. Welke achternamen zijn uniek? (niet repeterend)?
-5. Welke achternamen komen vaker dan 1x voor?
-6. Welke acteur heeft gespeeld in de meeste films?
-7. Wat is de gemiddelde lengte van alle films in de database?
-8. Wat is de gemiddelde lengte van alle films op categorie?
