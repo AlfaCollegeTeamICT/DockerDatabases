@@ -10,6 +10,7 @@ In deze omgeving draait:
 In de omgeving zijn de volgende voorbeeld-databases beschikbaar:
 - Sakila
 - World
+- Chinook
 
 ## Gebruikers
 De omgeving heeft standaard 2 verschillende gebruikers, een root-gebruiker en een student-gebruiker.
